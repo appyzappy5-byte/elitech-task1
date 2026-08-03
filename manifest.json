@@ -2,11 +2,12 @@
   "name": "Morrow Market",
   "short_name": "Morrow Market",
   "description": "Thoughtfully curated home goods, apparel, and essentials for modern living",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#FAF9F6",
   "theme_color": "#5B6B4F",
   "orientation": "portrait-primary",
+  "scope": "./",
   "icons": [
     {
       "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect fill='%235B6B4F' width='100' height='100' rx='20'/%3E%3Ctext x='50' y='65' font-family='serif' font-size='40' fill='white' text-anchor='middle'%3EM%3C/text%3E%3C/svg%3E",
